@@ -1,1 +1,2 @@
-# notyey
+Problem Statement:
+Many college students struggle to track attendance accurately due to varying academic calendars, inconsistent Saturday schedules, and uncertain holiday policies. This project aims to build a smart attendance tracking system that calculates real-time attendance percentage and predicts end-semester attendance using regression-based machine learning models. The system also estimates the maximum number of additional leaves a student can take while maintaining at least 75% attendance.
